@@ -1,0 +1,1 @@
+C:\Users\oksana\source\repos\NumberBaseConverterApp\NumberBaseConverterApp\NumberBaseConverterApp.csproj;x86
